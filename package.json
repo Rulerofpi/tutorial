@@ -1,0 +1,21 @@
+{
+    "author": "jboyle02@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial",
+    "pebble": {
+        "displayName": "Tutorial",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1a84d57d-d059-4dc2-8dfd-99728f8b4efa",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
